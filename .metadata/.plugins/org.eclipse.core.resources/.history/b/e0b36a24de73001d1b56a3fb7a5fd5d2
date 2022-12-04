@@ -1,0 +1,5 @@
+package com.logging.example.api;
+
+public class LogEndPoint {
+
+}

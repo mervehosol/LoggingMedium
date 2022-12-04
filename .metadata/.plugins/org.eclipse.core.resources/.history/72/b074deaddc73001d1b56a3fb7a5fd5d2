@@ -1,0 +1,14 @@
+package com.logging.example.service;
+
+import org.springframework.stereotype.Service;
+
+import com.logging.example.repository.ProductRepo;
+
+@Service
+public class ProductService {
+	private ProductRepo repo;
+	
+	public String getProductName() {
+		return "Product-test";
+	}
+}

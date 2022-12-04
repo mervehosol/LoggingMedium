@@ -1,0 +1,8 @@
+package com.logging.example.repository;
+
+public class ProductRepo {
+	
+	public String getProductName() {
+		return "Product-test";
+	}
+}

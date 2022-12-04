@@ -1,0 +1,5 @@
+package com.logging.example.webApi;
+
+public class LoggingController {
+
+}

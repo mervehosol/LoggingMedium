@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;deneme&apos; to &apos;classes&apos;&#x0D;&#x0A;- Original project: &apos;deneme&apos;&#x0D;&#x0A;- Original element: &apos;deneme/src/deneme&apos;&#x0D;&#x0A;- Renamed element: &apos;deneme/src/classes&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;deneme&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;deneme" name="classes" qualified="false" references="true" stamp="1668673864785" textual="false" version="1.0"/>
+</session>

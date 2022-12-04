@@ -1,0 +1,5 @@
+package com.logging.example.repository;
+
+public class ProductRepo {
+
+}

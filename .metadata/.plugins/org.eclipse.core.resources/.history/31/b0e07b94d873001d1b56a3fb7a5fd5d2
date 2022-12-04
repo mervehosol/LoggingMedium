@@ -1,0 +1,5 @@
+package com.logging.example.controller;
+
+public class ProductController {
+
+}
